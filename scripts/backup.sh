@@ -3,6 +3,9 @@
 
 mkdir -p /home/pi/klipper_config/docs
 
+cd /home/pi/kiauh/
+git describe --tags | tee /home/pi/klipper_config/docs/version_kiauh.md
+
 cd /home/pi/klipper/
 git describe --tags | tee /home/pi/klipper_config/docs/version_klipper.md
 
