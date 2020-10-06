@@ -1,2 +1,3 @@
-# printer.spire.config.klipper
-Spire Delta Printer with Klipper
+# "Spire" Delta Printer
+
+Delta Printer with a Klipper heart ...
