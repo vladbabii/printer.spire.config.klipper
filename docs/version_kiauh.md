@@ -6,6 +6,7 @@ https://github.com/th33xitus/kiauh.git
   Remote branches:
     master                          tracked
     refs/remotes/origin/work-fluidd stale (use 'git remote prune' to remove)
+    work-ini                        new (next fetch will store in remotes/origin)
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':
