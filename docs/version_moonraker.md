@@ -10,4 +10,4 @@ v0.1.0-40-g7a013a4
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':
-    master pushes to master (up to date)
+    master pushes to master (local out of date)
