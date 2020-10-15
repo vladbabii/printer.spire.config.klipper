@@ -7,6 +7,7 @@ v0.8.0-821-g0bf0cb5b
   Remote branches:
     master                   tracked
     work-adxlgraph-20200913  tracked
+    work-apidocs-20201014    new (next fetch will store in remotes/origin)
     work-fopdt-20180405      tracked
     work-ghactions-20200925  tracked
     work-linux-irq-20200607  new (next fetch will store in remotes/origin)
