@@ -1,5 +1,5 @@
 https://github.com/KevinOConnor/klipper.git
-v0.8.0-821-g0bf0cb5b
+v0.8.0-835-gcf6d302a
 * remote origin
   Fetch URL: https://github.com/KevinOConnor/klipper.git
   Push  URL: https://github.com/KevinOConnor/klipper.git
@@ -7,11 +7,11 @@ v0.8.0-821-g0bf0cb5b
   Remote branches:
     master                                      tracked
     refs/remotes/origin/work-adxlgraph-20200913 stale (use 'git remote prune' to remove)
-    work-apidocs-20201014                       new (next fetch will store in remotes/origin)
+    work-apidocs-20201014                       tracked
     work-fopdt-20180405                         tracked
     work-ghactions-20200925                     tracked
-    work-linux-irq-20200607                     new (next fetch will store in remotes/origin)
-    work-mcutemp-20201006                       new (next fetch will store in remotes/origin)
+    work-linux-irq-20200607                     tracked
+    work-mcutemp-20201006                       tracked
     work-mechaduino-20181205                    tracked
     work-neopixel-20200928                      tracked
     work-python3-20200612                       tracked
