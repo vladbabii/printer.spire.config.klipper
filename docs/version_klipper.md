@@ -7,7 +7,7 @@ v0.8.0-835-gcf6d302a
   Remote branches:
     master                                      tracked
     refs/remotes/origin/work-adxlgraph-20200913 stale (use 'git remote prune' to remove)
-    work-apidocs-20201014                       tracked
+    refs/remotes/origin/work-apidocs-20201014   stale (use 'git remote prune' to remove)
     work-fopdt-20180405                         tracked
     work-ghactions-20200925                     tracked
     work-linux-irq-20200607                     tracked
