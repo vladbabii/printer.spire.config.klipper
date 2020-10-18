@@ -14,6 +14,7 @@ v0.8.0-835-gcf6d302a
     work-mcutemp-20201006                       tracked
     work-mechaduino-20181205                    tracked
     work-neopixel-20200928                      tracked
+    work-probe-20201017                         new (next fetch will store in remotes/origin)
     work-python3-20200612                       tracked
     work-secant-20200922                        tracked
     work-tuning-20200805                        tracked
