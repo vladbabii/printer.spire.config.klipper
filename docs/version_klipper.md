@@ -1,5 +1,5 @@
 https://github.com/KevinOConnor/klipper.git
-v0.9.0
+v0.9.0-3-ged5ce9cb
 * remote origin
   Fetch URL: https://github.com/KevinOConnor/klipper.git
   Push  URL: https://github.com/KevinOConnor/klipper.git
