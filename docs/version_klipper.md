@@ -8,7 +8,7 @@ v0.9.0
     master                                      tracked
     refs/remotes/origin/work-adxlgraph-20200913 stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-apidocs-20201014   stale (use 'git remote prune' to remove)
-    work-ds18b20-20201024                       new (next fetch will store in remotes/origin)
+    work-ds18b20-20201024                       tracked
     work-fopdt-20180405                         tracked
     work-ghactions-20200925                     tracked
     work-linux-irq-20200607                     tracked
