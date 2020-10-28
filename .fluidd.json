@@ -1,0 +1,1 @@
+{"general":{"instanceName":"Fluidd","printTimeEstimationsType":"file","defaultExtrudeLength":10,"defaultExtrudeSpeed":5,"defaultToolheadMoveLength":"1.0"},"camera":{"url":"/webcam/?action=stream","rotateX":false},"dashboard":{"hiddenMacros":["PAUSE","CANCEL_PRINT","RESUME","PRINT_START","PRINT_END"]}}
