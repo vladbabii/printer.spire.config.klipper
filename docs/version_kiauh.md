@@ -6,6 +6,7 @@ https://github.com/th33xitus/kiauh.git
   Remote branches:
     klipper-systemd                 new (next fetch will store in remotes/origin)
     master                          tracked
+    moonraker-rework                new (next fetch will store in remotes/origin)
     refs/remotes/origin/work-fluidd stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-ini    stale (use 'git remote prune' to remove)
   Local branch configured for 'git pull':
