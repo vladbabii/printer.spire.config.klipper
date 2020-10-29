@@ -9,12 +9,12 @@ v0.9.0-3-ged5ce9cb
     refs/remotes/origin/work-adxlgraph-20200913 stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-apidocs-20201014   stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-mcutemp-20201006   stale (use 'git remote prune' to remove)
+    refs/remotes/origin/work-neopixel-20200928  stale (use 'git remote prune' to remove)
     work-ds18b20-20201024                       tracked
     work-fopdt-20180405                         tracked
     work-ghactions-20200925                     tracked
     work-linux-irq-20200607                     tracked
     work-mechaduino-20181205                    tracked
-    work-neopixel-20200928                      tracked
     work-python3-20200612                       tracked
     work-secant-20200922                        tracked
     work-tuning-20200805                        tracked
