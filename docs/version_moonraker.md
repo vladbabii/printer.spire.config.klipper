@@ -5,6 +5,7 @@ v0.1.0-55-gd582d76
   Push  URL: https://github.com/Arksine/moonraker.git
   HEAD branch: master
   Remote branches:
+    dev-ufp-support   new (next fetch will store in remotes/origin)
     dev-websocket-api tracked
     master            tracked
   Local branch configured for 'git pull':
