@@ -7,7 +7,7 @@ https://github.com/th33xitus/kiauh.git
     master                          tracked
     refs/remotes/origin/work-fluidd stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-ini    stale (use 'git remote prune' to remove)
-    refs/remotes/origin/work-webui  stale (use 'git remote prune' to remove)
+    work-webui                      tracked
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':
