@@ -19,6 +19,7 @@ v0.9.0-3-ged5ce9cb
     work-kconfiglib-20201118                    new (next fetch will store in remotes/origin)
     work-linux-irq-20200607                     tracked
     work-mechaduino-20181205                    tracked
+    work-movequeue-20201120                     new (next fetch will store in remotes/origin)
     work-python3-20200612                       tracked
     work-tuning-20200805                        tracked
   Local branch configured for 'git pull':
