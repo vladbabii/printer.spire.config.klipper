@@ -13,6 +13,7 @@ v0.9.0-3-ged5ce9cb
     refs/remotes/origin/work-mcutemp-20201006   stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-neopixel-20200928  stale (use 'git remote prune' to remove)
     refs/remotes/origin/work-secant-20200922    stale (use 'git remote prune' to remove)
+    testing                                     new (next fetch will store in remotes/origin)
     work-ds18b20-20201024                       tracked
     work-fopdt-20180405                         tracked
     work-linux-irq-20200607                     tracked
