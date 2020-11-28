@@ -11,4 +11,4 @@ v0.1.0-132-gf96fb99
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':
-    master pushes to master (up to date)
+    master pushes to master (local out of date)
