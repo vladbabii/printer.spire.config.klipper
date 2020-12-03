@@ -37,6 +37,11 @@ if [[ $(git diff | wc -l)  == "0" ]] ; then
   echo "no changes found!"
 else
   echo "changes found!"
+
+  echo "\`\`\`" > /home/pi/klipper_config/docs/kiauh_status.md
+  cat /tmp/kiauh.status.txt | sed 's/\x1B\[[0-9;]\{1,\}[A-Za-z]//g' >> /home/pi/klipper_config/docs/kiauh_status.md
+  echo "\`\`\`" >> /home/pi/klipper_config/docs/kiauh_status.md
+
   git pull
   git add *
   git commit -m "auto"
