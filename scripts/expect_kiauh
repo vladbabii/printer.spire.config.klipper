@@ -1,1 +1,7 @@
 #!/usr/bin/expect
+
+set timeout 30
+spawn  /home/pi/kiauh/kiauh.sh
+expect "Perform action:" { send "2\n" }
+expect "Perform action:" { send "q\n" }
+expect "Perform action:" { send "q\n" }
