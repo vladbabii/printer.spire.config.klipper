@@ -1,4 +1,3 @@
-  
 #!/bin/bash
 
 mkdir -p /home/pi/klipper_config/docs
