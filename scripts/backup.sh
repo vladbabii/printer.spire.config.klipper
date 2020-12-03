@@ -31,8 +31,14 @@ git remote show origin >> /home/pi/klipper_config/docs/version_moonraker.md
 echo "\`\`\`" >> /home/pi/klipper_config/docs/version_moonraker.md
 
 cd /home/pi/klipper_config
-git pull
-git add *
-git commit -m "auto"
-git push
-git pull
+
+if git diff-index --quiet HEAD --; then
+  echo "no changes!"
+else
+  echo "changes found!"
+  git pull
+  git add *
+  git commit -m "auto"
+  git push
+  git pull
+fi
