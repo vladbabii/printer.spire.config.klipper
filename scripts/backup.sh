@@ -33,7 +33,9 @@ echo "\`\`\`" >> /home/pi/klipper_config/docs/version_moonraker.md
 
 cd /home/pi/klipper_config
 
-if ! git diff-index --quiet HEAD --; then
+if [[ $(git diff | wc -l)  == "0" ]] ; then
+  echo "no changes found!"
+else
   echo "changes found!"
   git pull
   git add *
