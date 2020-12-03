@@ -1,4 +1,5 @@
 https://github.com/th33xitus/kiauh.git
+93f8e5e
 * remote origin
   Fetch URL: https://github.com/th33xitus/kiauh.git
   Push  URL: https://github.com/th33xitus/kiauh.git

@@ -1,5 +1,6 @@
 https://github.com/Arksine/moonraker.git
 v0.1.0-132-gf96fb99
+f96fb99
 * remote origin
   Fetch URL: https://github.com/Arksine/moonraker.git
   Push  URL: https://github.com/Arksine/moonraker.git
