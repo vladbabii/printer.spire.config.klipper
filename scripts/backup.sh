@@ -39,6 +39,7 @@ else
   echo "changes found!"
 
   echo "\`\`\`" > /home/pi/klipper_config/docs/kiauh_status.md
+  ./home/pi/klipper_config/scripts/expect_kiauh > /tmp/kiauh.status.txt
   cat /tmp/kiauh.status.txt | sed 's/\x1B\[[0-9;]\{1,\}[A-Za-z]//g' >> /home/pi/klipper_config/docs/kiauh_status.md
   echo "\`\`\`" >> /home/pi/klipper_config/docs/kiauh_status.md
 
