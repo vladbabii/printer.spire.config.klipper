@@ -44,6 +44,8 @@ else
 
   git pull
   git add *
+  git add ".ignore"
+  git add ".fluidd.json"
   git commit -m "auto"
   git push
   git pull
