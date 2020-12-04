@@ -22,6 +22,7 @@ v0.9.1-57-g8ed01a1d
     work-movequeue-20201120                     tracked
     work-python3-20200612                       tracked
     work-tuning-20200805                        tracked
+    work-waittemp-20201203                      new (next fetch will store in remotes/origin)
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':
