@@ -12,5 +12,5 @@ v0.2.2-4-g43e2893
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':
-    master pushes to master (up to date)
+    master pushes to master (local out of date)
 ```
