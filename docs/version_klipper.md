@@ -21,6 +21,7 @@ v0.9.1-57-g8ed01a1d
     work-linux-irq-20200607                     tracked
     work-mechaduino-20181205                    tracked
     work-python3-20200612                       tracked
+    work-tempstats-20201206                     new (next fetch will store in remotes/origin)
     work-tuning-20200805                        tracked
     work-waittemp-20201203                      tracked
   Local branch configured for 'git pull':
